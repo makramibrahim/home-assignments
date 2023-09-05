@@ -1,0 +1,10 @@
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\bin\Debug\Demo.SQL.dacpac
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\bin\Debug\Demo.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\bin\Debug\Demo.pdb
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\Demo.SQL.sqlproj.AssemblyReference.cache
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\Model.xml
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\refactor.xml
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\postdeploy.sql
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\predeploy.sql
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\Demo.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Demo\obj\Debug\Demo.pdb

@@ -1,0 +1,12 @@
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\bin\Debug\net7.0\PersonDemo.Database.deps.json
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\bin\Debug\net7.0\PersonDemo.Database.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\bin\Debug\net7.0\PersonDemo.Database.pdb
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.csproj.AssemblyReference.cache
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.AssemblyInfoInputs.cache
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.AssemblyInfo.cs
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.csproj.CoreCompileInputs.cache
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\refint\PersonDemo.Database.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\PersonDemo.Database.pdb
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\PersonDemo.Database\obj\Debug\net7.0\ref\PersonDemo.Database.dll

@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[PersonHistory]
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY,
+    PersonId UNIQUEIDENTIFIER NOT NULL FOREIGN KEY (PersonId) REFERENCES Person(Id),
+    GivenName NVARCHAR(255) NOT NULL,
+    Surname NVARCHAR(255) NOT NULL,
+    Gender NVARCHAR(10) NOT NULL,
+    BirthDate DATE,
+    BirthLocation NVARCHAR(255),
+    DeathDate DATE,
+    DeathLocation NVARCHAR(255),
+    Timestamp DATETIME NOT NULL DEFAULT GETDATE()
+)

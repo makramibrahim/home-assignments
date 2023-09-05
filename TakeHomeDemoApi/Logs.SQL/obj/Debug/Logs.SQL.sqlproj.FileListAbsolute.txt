@@ -1,0 +1,6 @@
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\bin\Debug\Logs.SQL.dacpac
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\bin\Debug\Logs.SQL.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\bin\Debug\Logs.SQL.pdb
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\obj\Debug\Logs.SQL.sqlproj.AssemblyReference.cache
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\obj\Debug\Logs.SQL.dll
+C:\D-Drive\Mak\native-core-lms\TakeHomeDemoApi\Logs.SQL\obj\Debug\Logs.SQL.pdb
